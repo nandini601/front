@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate and self-motivated developer with
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nandini-tiwarii/)
-- 📧 Email: *your.email@example.com* (replace with your real one if you’d like)
+- 📧 Email: nandinitiwari05776@gmail.com
 
 ---
 
